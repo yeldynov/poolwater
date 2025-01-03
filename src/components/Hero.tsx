@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button'
 
 const Hero = () => {
   return (
-    <section className='bg-[url("bg-hero.png")] bg-center sm:bg-left bg-cover bg-no-repeat'>
+    <section className='bg-[url("/bg-hero.png")] bg-center sm:bg-left bg-cover bg-no-repeat'>
       <div className='container flex flex-col items-center'>
         <div className='w-full rounded-lg overflow-clip bg-accent/50 '>
           <div className='grid items-center gap-8 lg:grid-cols-2'>
