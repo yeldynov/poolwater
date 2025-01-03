@@ -1,4 +1,5 @@
 import FreeTrial from './components/FreeTrial'
+import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div>
       <FreeTrial />
       <Navbar />
+      <Hero />
     </div>
   )
 }

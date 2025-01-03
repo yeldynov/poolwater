@@ -3,3 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.bg-scale-130 {
+  background-size: 130%;
+}
