@@ -1,6 +1,7 @@
 import FreeTrial from './components/FreeTrial'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
+import Reasons from './components/Reasons'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <FreeTrial />
       <Navbar />
       <Hero />
+      <Reasons />
     </div>
   )
 }
