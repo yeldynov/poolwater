@@ -1,3 +1,4 @@
+import Features from './components/Features'
 import FreeTrial from './components/FreeTrial'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
@@ -10,6 +11,7 @@ function App() {
       <Navbar />
       <Hero />
       <Reasons />
+      <Features />
     </div>
   )
 }
